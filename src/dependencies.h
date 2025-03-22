@@ -10,7 +10,4 @@
 // Direct dependencies - add new dependencies here
 #include "submodule1_1.h"
 
-// Add more dependencies as needed
-// #include "future_dependency.h"
-
 #endif // DEPENDENCIES_H
