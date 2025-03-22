@@ -1,5 +1,4 @@
-#include "submodule1_1.h"
-#include <string>
+#include "dependencies.h"
 
 /**
  * Returns a greeting message.
